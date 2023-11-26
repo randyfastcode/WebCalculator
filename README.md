@@ -1,3 +1,3 @@
-Ajunto captura de la interfaz:
+Interfaz en desarrollo:
 
 ![Mi captura de pantalla](webcalc.JPG)
