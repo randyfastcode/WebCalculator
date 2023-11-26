@@ -1,3 +1,3 @@
-Esta es la tarea #2 de Randy Emilio Ramirez. Esta es la captura de pantalla:
+Ajunto captura de la interfaz:
 
 ![Mi captura de pantalla](webcalc.JPG)
